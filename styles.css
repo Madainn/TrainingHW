@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.list-title{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  border-radius: 10px;
+  background: #42047C;
+  color: white;
+}
+
+.list-title2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  border-radius: 10px;
+  background: #42047C;
+  color: white;
+  font-size: 12;
+}
+
+.content {
+  margin: 10px auto;
+  width: 600px;
+  border-radius: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.produce-content {
+  border-color: #4E753C;
+  border-width: medium;
+}
+.produce-list {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  border-radius: 10px;
+  background: #4E753C;
+  color: white;
+}
+.produce-input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  border-radius: 10px;
+  background: #A3C593;
+}
+.produce-name {
+  width: 300px;
+  margin: 5px auto 5px auto;
+  padding: 5px;
+  border-radius: 10px;
+}
+.produce-submit {
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 5px auto;
+  background: #4E753C;
+  border-radius: 20px;
+  color: #fff;
+}
+.produce-container {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  border-radius: 10px;
+  background: #4E753C;
+  color: white;
+  }
+
+.dairy-content {
+    border-color: #050772;
+    border-width: medium;
+  }
+.dairy-list {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #050772;
+    color: white;
+  }
+.dairy-input {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #4b4ef2;
+  }
+.dairy-name {
+    width: 300px;
+    margin: 5px auto 5px auto;
+    padding: 5px;
+    border-radius: 10px;
+  }
+.dairy-submit {
+    width: 300px;
+    padding: 5px;
+    margin: 5px auto 5px auto;
+    background: #050772;
+    border-radius: 20px;
+    color: #fff;
+  }
+.dairy-container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #050772;
+    color: white;
+    }
+
+.meat-content {
+    border-color: #840306;
+    border-width: medium;
+      }
+.meat-list {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #840306;
+    color: white;
+      }
+.meat-input {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #ef7a7c;
+      }
+.meat-name {
+    width: 300px;
+    margin: 5px auto 5px auto;
+    padding: 5px;
+    border-radius: 10px;
+      }
+.meat-submit {
+    width: 300px;
+    padding: 5px;
+    margin: 5px auto 5px auto;
+    background: #840306;
+    border-radius: 20px;
+    color: #fff;
+      }
+.meat-container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    border-radius: 10px;
+    background: #840306;
+    color: white;
+        }
+
+        .cereal-content {
+            border-color: #c69b00;
+            border-width: medium;
+              }
+        .cereal-list {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            display: flex;
+            flex-direction: column;
+            margin-top: 0px;
+            border-radius: 10px;
+            background: #c69b00;
+            color: white;
+              }
+        .cereal-input {
+            display: flex;
+            flex-direction: column;
+            margin-top: 0px;
+            border-radius: 10px;
+            background: #e8d592;
+            color: black;
+              }
+        .cereal-name {
+            width: 300px;
+            margin: 5px auto 5px auto;
+            padding: 5px;
+            border-radius: 10px;
+              }
+        .cereal-submit {
+            width: 300px;
+            padding: 5px;
+            margin: 5px auto 5px auto;
+            background: #c69b00;
+            border-radius: 20px;
+            color: #fff;
+              }
+        .cereal-container {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            display: flex;
+            flex-direction: column;
+            margin-top: 0px;
+            border-radius: 10px;
+            background: #c69b00;
+            color: white;
+                }
